@@ -34,4 +34,4 @@ This notebook demonstrates building a multi-output neural network using Keras Fu
 
 For example, if your username is `john_doe` and repo is `keras-learning`, it would be:
 ```
-https://colab.research.google.com/github/maciejjkowara/keras-learning/blob/main/index_constitutents_classification.ipynb
+https://colab.research.google.com/github/maciejjkowara/keras_training/blob/main/index_constitutents_classification.ipynb
