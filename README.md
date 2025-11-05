@@ -4,7 +4,8 @@ Learning exercise using Keras Functional API to predict bond classifications (le
 
 ## Open in Google Colab
 
-HTML[!https://colab.research.google.com/github/maciejjkowara/keras_training/blob/main/index_constitutents_classification.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maciejjkowara/keras_training/blob/main/index_constitutents_classification.ipynb)
+
 ## Project Overview
 
 This notebook demonstrates building a multi-output neural network using Keras Functional API to predict:
@@ -27,10 +28,3 @@ This notebook demonstrates building a multi-output neural network using Keras Fu
 ## Dataset
 
 10,000+ bond observations with classification targets and numerical/categorical features.
-```
-
-**Important:** Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and repository name in the Colab badge URL.
-
-For example, if your username is `john_doe` and repo is `keras-learning`, it would be:
-```
-https://colab.research.google.com/github/maciejjkowara/keras_training/blob/main/index_constitutents_classification.ipynb
